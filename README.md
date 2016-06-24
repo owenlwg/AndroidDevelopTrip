@@ -36,5 +36,23 @@ android开发中一些知识点的收集整理，汇集到一起便于以后的�
 #<span id="a">A</span>  
 
 
+#B  
+
+
+#C  
+
+
+#D  
+
+
+#E  
+
 
 #F
+###Fragment  
+1. [Fragment基本方法详解](http://blog.csdn.net/harvic880925/article/details/44917955)
+2. [Fragment的一些坑](http://www.jianshu.com/p/d9143a92ad94)
+
+
+
+#G
