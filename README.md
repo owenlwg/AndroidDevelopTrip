@@ -68,7 +68,8 @@ android开发中一些知识点的收集整理，汇集到一起便于以后的�
 
 ---
 #H  
-
+1. [互联网全站HTTPS的时代已经到来](http://blog.jobbole.com/78042/)
+2. [扒一扒HTTPS网站的内幕](https://blog.wilddog.com/?p=210)
 
 ---
 #I  
