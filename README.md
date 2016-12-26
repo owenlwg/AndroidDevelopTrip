@@ -133,7 +133,7 @@ android开发中一些知识点的收集整理，汇集到一起便于以后的�
 #S
 ###Support Library  
 1. [Android Support Library 23.2:特性介绍](https://segmentfault.com/a/1190000004492535)
-
+2. [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
 ---
 #T  
@@ -169,5 +169,4 @@ android开发中一些知识点的收集整理，汇集到一起便于以后的�
 
 ---
 #Z  
-
 
